@@ -1,0 +1,49 @@
+
+.hero-container {
+    background: url('https://gdb.voanews.com/03180000-0aff-0242-c03b-08da42c88fe2_w1200_r1.jpg') center center/cover no-repeat; 
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    object-fit: contain;  
+}
+.hero-container > h1 {
+    color: rgba(255, 255, 255, 0.25);
+    font-size: 100px;
+    margin-top: 50px;
+    background: transparent;
+}
+.hero-container > p {
+    background: transparent;
+    font-size: 50px;
+}
+.hero-btns {
+    background: transparent;
+}
+.hero-btns > Button {
+    background: transparent;
+}
+.img {
+        object-fit: cover;
+        width: 50%;
+        height: 100%;
+        position: fixed;
+        z-index: -1;
+      
+}
+#view {
+    background-image: url('https://i.natgeofe.com/n/fb10ee64-20aa-4ac1-8767-8604765959da/MM9931_220518_00088_16x9.jpg?w=1200');
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    image-orientation: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    background-position-x: center;
+    background-position-y: center;
+    /*object-fit: contain;*/
+    
+}

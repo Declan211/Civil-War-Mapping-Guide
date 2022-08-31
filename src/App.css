@@ -1,0 +1,51 @@
+*
+{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+  background: black
+}
+.armies {
+  background: black
+}
+
+/*.App {
+  text-align: center;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/7/70/Lincoln_Memorial_-_Abraham_Lincoln_statue_at_night.jpg");
+  position: fixed;
+  max-width: 100%;
+  max-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+*/
+
+.home,
+.begin-walkthrough,
+.view-statistics {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.begin-walkthrough {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.view-statistics {
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+
+

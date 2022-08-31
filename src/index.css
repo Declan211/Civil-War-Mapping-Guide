@@ -1,0 +1,23 @@
+
+ /*#view {
+
+    background: url('./images/immigrant-graph.png');
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    image-orientation: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    background-position-x: center;
+    background-position-y: center;
+    object-fit: contain;
+} */
+.imgs {
+    box-sizing: border-box;
+    background-size: 100%;
+    background-position: 50%;
+    width: 100%;
+    height: 500px;
+    margin: 0 0;
+  }

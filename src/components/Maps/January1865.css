@@ -1,0 +1,33 @@
+.jan1865-container {
+    height: 79vh;
+    width: 79vw;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    /*box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2); */
+    object-fit: contain; 
+    background: url('../images/Finished Jan 1865.png') center center/cover no-repeat;
+    background-color: transparent;
+}
+.jan1865-container > h1 {
+    color: black;
+    font-size: 40px;
+    margin-top: 0px;
+    font-family:'Times New Roman', Times, serif;
+    background: transparent;
+}
+.notes-container >p{
+    color: rgba(200, 200, 200);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: start;
+    align-items: left;
+}
+.next-prev {
+    display: flex;
+    margin-left: 1100px;
+    margin-top: -40px
+}
+.jan1865-container > .next-prev {
+    margin-left: 1070px
+}

@@ -1,0 +1,17 @@
+.graphs-container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    object-fit: contain; 
+    background: black;
+    color: white;
+}
+.graphs-container > h1 {
+    color: white;
+    font-size: 60px;
+    margin-top: 50px;
+    font-family:'Times New Roman', Times, serif
+}

@@ -1,0 +1,21 @@
+# Query: es7
+# ContextLines: 1
+
+ results - 1 file
+
+package-lock.json:
+   1639        "resolved": "https://registry.npmjs.org/@babel/plugin-transform-unicode-escapes/-/plugin-transform-unicode-escapes-7.18.10.tgz",
+   1640:       "integrity": "sha512-kKAdAI+YzPgGY/ftStBFXTI1LZFju38rYThnfMykS+IXy8BVx+res7s2fxf1l8I35DV2T97ezo6+SGrXz6B3iQ==",
+   1641        "dependencies": {
+
+  13635        "resolved": "https://registry.npmjs.org/qs/-/qs-6.10.3.tgz",
+  13636:       "integrity": "sha512-wr7M2E0OFRfIfJZjKGieI8lBKb7fRCH4Fv5KNPEs7gJ8jadvotdsS08PzOKR7opXhZ/Xkjtt3WF9g38drmyRqQ==",
+  13637        "dependencies": {
+
+  17759        "resolved": "https://registry.npmjs.org/@babel/plugin-transform-unicode-escapes/-/plugin-transform-unicode-escapes-7.18.10.tgz",
+  17760:       "integrity": "sha512-kKAdAI+YzPgGY/ftStBFXTI1LZFju38rYThnfMykS+IXy8BVx+res7s2fxf1l8I35DV2T97ezo6+SGrXz6B3iQ==",
+  17761        "requires": {
+
+  26254        "resolved": "https://registry.npmjs.org/qs/-/qs-6.10.3.tgz",
+  26255:       "integrity": "sha512-wr7M2E0OFRfIfJZjKGieI8lBKb7fRCH4Fv5KNPEs7gJ8jadvotdsS08PzOKR7opXhZ/Xkjtt3WF9g38drmyRqQ==",
+  26256        "requires": {
